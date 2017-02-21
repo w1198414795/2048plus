@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: bbbb903657f28164689a51297d06eb50
+timeCreated: 1443176304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: colorbox_0
+    21300002: colorbox_1
+    21300004: colorbox_2
+    21300006: colorbox_3
+    21300008: colorbox_4
+    21300010: colorbox_5
+    21300012: colorbox_6
+    21300014: colorbox_7
+    21300016: colorbox_8
+    21300018: colorbox_9
+    21300020: colorbox_10
+    21300022: colorbox_11
+    21300024: colorbox_12
+    21300026: colorbox_13
+    21300028: colorbox_14
+    21300030: colorbox_15
+    21300032: colorbox_16
+    21300034: colorbox_17
+    21300036: colorbox_18
+    21300038: colorbox_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: colorbox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 202
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 325
+        width: 203
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 326
+        width: 203
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 315
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 307
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_5
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 315
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_6
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 315
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 325
+        width: 205
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_8
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 334
+        width: 203
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_9
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 336
+        width: 202
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 202
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 28
+        width: 203
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 20
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_13
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 28
+        width: 203
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 9
+        width: 203
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_15
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 0
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_16
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 0
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_17
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 205
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_18
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 0
+        width: 203
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorbox_19
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 202
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
